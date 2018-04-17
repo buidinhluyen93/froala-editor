@@ -1,2 +1,0 @@
-# froala-editor
-froala editor
